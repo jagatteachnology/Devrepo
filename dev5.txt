@@ -1,0 +1,10 @@
+this is dev5 txt file
+i want to see how many file commited one 
+commit id
+for that 
+i used command 
+git show id no
+for see only file name
+git show --prettyv--name-only commitid no
+how to know commit id no
+git log command
