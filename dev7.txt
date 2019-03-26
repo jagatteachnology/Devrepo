@@ -1,0 +1,3 @@
+this is dev7.txt file 
+i am gonna reset it
+reset=used for come back from staging area to working area
